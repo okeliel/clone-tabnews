@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Clone de uma comunidade online sobre tecnologia.",
+  "homepage": "https://github.com/okeliel/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/okeliel/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okeliel/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "16.2",
+    "react": "19.2",
+    "react-dom": "^19.2.4"
+  }
+}
