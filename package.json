@@ -12,14 +12,15 @@
   },
   "license": "MIT",
   "author": "",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "next": "16.2",
-    "react": "19.2",
-    "react-dom": "^19.2.4"
+    "react": "19.2.5",
+    "react-dom": "^19.2.5"
   }
 }
